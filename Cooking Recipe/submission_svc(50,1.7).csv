@@ -5,7 +5,7 @@ id,cuisine
 29752,cajun_creole
 35687,italian
 38527,southern_us
-19666,french
+19666,italian
 41217,chinese
 28753,mexican
 22659,british
@@ -31,7 +31,7 @@ id,cuisine
 26212,southern_us
 23696,mexican
 14926,thai
-13292,indian
+13292,mexican
 27346,japanese
 1384,chinese
 15959,mexican
@@ -165,7 +165,7 @@ id,cuisine
 37141,southern_us
 45447,french
 9624,mexican
-45589,irish
+45589,southern_us
 7265,irish
 31844,southern_us
 13046,italian
@@ -348,7 +348,7 @@ id,cuisine
 17617,chinese
 57,mexican
 43422,indian
-49403,spanish
+49403,mexican
 44751,southern_us
 21865,mexican
 26584,british
@@ -365,7 +365,7 @@ id,cuisine
 22347,vietnamese
 49671,mexican
 40854,italian
-926,japanese
+926,chinese
 47919,filipino
 20571,italian
 18866,british
@@ -379,7 +379,7 @@ id,cuisine
 27221,italian
 48301,italian
 29925,korean
-48640,chinese
+48640,thai
 22873,mexican
 10565,cajun_creole
 15509,italian
@@ -417,7 +417,7 @@ id,cuisine
 300,mexican
 9278,southern_us
 10021,indian
-17014,russian
+17014,greek
 40855,italian
 18362,korean
 16292,chinese
@@ -699,7 +699,7 @@ id,cuisine
 13712,mexican
 2633,british
 35784,southern_us
-45204,french
+45204,italian
 46722,southern_us
 34949,french
 35321,chinese
@@ -881,7 +881,7 @@ id,cuisine
 35141,italian
 13498,chinese
 24566,french
-16533,french
+16533,italian
 15437,mexican
 19426,greek
 32416,mexican
@@ -1028,7 +1028,7 @@ id,cuisine
 44144,indian
 37723,french
 47194,indian
-30827,french
+30827,italian
 33108,indian
 2075,cajun_creole
 6326,italian
@@ -1140,7 +1140,7 @@ id,cuisine
 22449,cajun_creole
 23828,indian
 5660,italian
-47460,italian
+47460,mexican
 17912,southern_us
 12288,southern_us
 44037,moroccan
@@ -1227,7 +1227,7 @@ id,cuisine
 35402,italian
 48796,italian
 4657,chinese
-2404,irish
+2404,thai
 36923,southern_us
 41762,french
 19344,filipino
@@ -1457,7 +1457,7 @@ id,cuisine
 48134,brazilian
 24141,chinese
 4117,chinese
-20578,russian
+20578,southern_us
 47585,italian
 20326,brazilian
 43932,filipino
@@ -1547,7 +1547,7 @@ id,cuisine
 15223,indian
 17763,french
 24528,italian
-21704,french
+21704,southern_us
 45329,mexican
 48876,southern_us
 3741,mexican
@@ -1634,7 +1634,7 @@ id,cuisine
 37943,chinese
 23471,mexican
 3529,thai
-46794,italian
+46794,mexican
 16626,mexican
 32361,japanese
 20932,cajun_creole
@@ -1868,13 +1868,13 @@ id,cuisine
 11460,italian
 33770,cajun_creole
 24399,french
-8006,filipino
+8006,japanese
 48885,japanese
 42585,moroccan
 40160,mexican
 45541,thai
 22410,vietnamese
-26226,mexican
+26226,chinese
 4591,indian
 5457,moroccan
 39085,spanish
@@ -1906,7 +1906,7 @@ id,cuisine
 33443,italian
 44632,korean
 26773,thai
-3203,vietnamese
+3203,japanese
 32873,filipino
 24806,thai
 45942,french
@@ -1941,7 +1941,7 @@ id,cuisine
 33824,italian
 29953,italian
 16387,chinese
-37672,chinese
+37672,italian
 1868,italian
 24984,chinese
 47128,greek
@@ -1985,7 +1985,7 @@ id,cuisine
 16625,italian
 16769,spanish
 12515,southern_us
-14731,irish
+14731,italian
 11658,mexican
 49467,vietnamese
 19749,italian
@@ -1993,7 +1993,7 @@ id,cuisine
 5722,italian
 31967,southern_us
 39857,italian
-16534,french
+16534,italian
 27334,italian
 32215,mexican
 34903,italian
@@ -2020,7 +2020,7 @@ id,cuisine
 49455,mexican
 26522,spanish
 28420,italian
-329,french
+329,italian
 18986,mexican
 31705,british
 7402,italian
@@ -2062,7 +2062,7 @@ id,cuisine
 22656,french
 47811,greek
 7925,russian
-14860,japanese
+14860,chinese
 27525,chinese
 7798,italian
 10848,italian
@@ -2144,7 +2144,7 @@ id,cuisine
 22758,italian
 32551,mexican
 20470,mexican
-20842,french
+20842,italian
 43018,indian
 45493,italian
 42442,italian
@@ -2216,7 +2216,7 @@ id,cuisine
 23012,indian
 2981,italian
 31371,moroccan
-8119,spanish
+8119,french
 48376,japanese
 42957,mexican
 18688,french
@@ -2235,7 +2235,7 @@ id,cuisine
 27201,chinese
 22141,southern_us
 34166,cajun_creole
-4721,italian
+4721,indian
 44230,mexican
 21409,italian
 29986,southern_us
@@ -2295,7 +2295,7 @@ id,cuisine
 5008,french
 10685,mexican
 15287,italian
-25701,irish
+25701,mexican
 31525,italian
 27096,chinese
 36113,japanese
@@ -2335,7 +2335,7 @@ id,cuisine
 48671,moroccan
 18509,southern_us
 8903,greek
-23374,japanese
+23374,chinese
 22475,japanese
 28418,indian
 42625,brazilian
@@ -2352,7 +2352,7 @@ id,cuisine
 38377,southern_us
 344,mexican
 11864,filipino
-16895,spanish
+16895,cajun_creole
 3001,indian
 19195,japanese
 3635,japanese
@@ -2398,7 +2398,7 @@ id,cuisine
 5012,southern_us
 19487,italian
 17263,mexican
-26127,british
+26127,irish
 39464,indian
 4870,thai
 16171,moroccan
@@ -2418,7 +2418,7 @@ id,cuisine
 49613,vietnamese
 45149,indian
 38610,indian
-18111,southern_us
+18111,cajun_creole
 35670,italian
 30349,japanese
 12034,chinese
@@ -2719,7 +2719,7 @@ id,cuisine
 42310,french
 15612,mexican
 23160,southern_us
-37897,british
+37897,russian
 44731,italian
 3460,southern_us
 29855,italian
@@ -2739,7 +2739,7 @@ id,cuisine
 2718,mexican
 28365,mexican
 45843,italian
-4514,filipino
+4514,vietnamese
 4311,chinese
 41356,italian
 12022,british
@@ -2864,7 +2864,7 @@ id,cuisine
 18613,mexican
 19060,british
 17845,southern_us
-1534,french
+1534,indian
 41786,french
 31656,brazilian
 17330,italian
@@ -2884,7 +2884,7 @@ id,cuisine
 43095,mexican
 18576,greek
 39720,indian
-17526,british
+17526,southern_us
 27549,italian
 27123,italian
 22979,cajun_creole
@@ -2906,7 +2906,7 @@ id,cuisine
 7224,korean
 17978,greek
 9438,chinese
-9458,korean
+9458,japanese
 41045,thai
 34614,mexican
 16651,italian
@@ -3086,7 +3086,7 @@ id,cuisine
 28746,french
 7226,french
 30991,southern_us
-47476,irish
+47476,french
 30626,italian
 49367,indian
 35754,indian
@@ -3169,7 +3169,7 @@ id,cuisine
 47170,southern_us
 2295,moroccan
 46128,southern_us
-48349,russian
+48349,irish
 1482,korean
 26589,italian
 9418,italian
@@ -3315,7 +3315,7 @@ id,cuisine
 32563,mexican
 38829,indian
 3835,italian
-1960,moroccan
+1960,indian
 43991,southern_us
 45136,italian
 41554,southern_us
@@ -3387,7 +3387,7 @@ id,cuisine
 37086,italian
 13965,italian
 28674,mexican
-5645,mexican
+5645,southern_us
 20756,mexican
 15548,irish
 14495,indian
@@ -3483,7 +3483,7 @@ id,cuisine
 27494,french
 48254,japanese
 32789,mexican
-44569,chinese
+44569,korean
 44160,italian
 18762,mexican
 23808,italian
@@ -3516,7 +3516,7 @@ id,cuisine
 42731,filipino
 8281,mexican
 2812,southern_us
-30683,irish
+30683,southern_us
 24249,russian
 12169,cajun_creole
 28629,italian
@@ -4057,7 +4057,7 @@ id,cuisine
 16053,italian
 37470,italian
 23027,mexican
-42078,italian
+42078,southern_us
 13183,italian
 14828,greek
 15394,mexican
@@ -4083,7 +4083,7 @@ id,cuisine
 48664,cajun_creole
 14122,greek
 3175,mexican
-3403,brazilian
+3403,southern_us
 11062,southern_us
 16629,mexican
 11349,french
@@ -4158,7 +4158,7 @@ id,cuisine
 5596,indian
 11369,vietnamese
 37436,mexican
-2421,indian
+2421,mexican
 22070,mexican
 10600,southern_us
 11150,mexican
@@ -4261,7 +4261,7 @@ id,cuisine
 38952,italian
 20915,indian
 34732,french
-48656,spanish
+48656,southern_us
 38736,mexican
 20374,indian
 18664,indian
@@ -4367,7 +4367,7 @@ id,cuisine
 14541,japanese
 13993,chinese
 8996,mexican
-9943,irish
+9943,british
 22707,irish
 35292,french
 46886,mexican
@@ -4434,7 +4434,7 @@ id,cuisine
 3462,italian
 19617,cajun_creole
 18874,indian
-6416,french
+6416,chinese
 15063,vietnamese
 46292,chinese
 38247,southern_us
@@ -4475,7 +4475,7 @@ id,cuisine
 19242,indian
 21658,indian
 32160,french
-20931,filipino
+20931,southern_us
 30800,french
 33829,thai
 29674,japanese
@@ -4495,7 +4495,7 @@ id,cuisine
 11211,chinese
 10117,mexican
 26611,mexican
-21852,chinese
+21852,vietnamese
 41769,italian
 16342,mexican
 13694,southern_us
@@ -4609,11 +4609,11 @@ id,cuisine
 25020,italian
 6889,mexican
 37348,russian
-27337,indian
+27337,french
 21625,italian
 43407,moroccan
 737,greek
-42668,cajun_creole
+42668,french
 36758,southern_us
 3528,cajun_creole
 40542,chinese
@@ -5261,7 +5261,7 @@ id,cuisine
 26586,french
 49698,southern_us
 27718,french
-36219,filipino
+36219,french
 30609,italian
 44118,mexican
 30917,italian
@@ -5298,7 +5298,7 @@ id,cuisine
 37125,italian
 8063,indian
 32934,japanese
-12139,greek
+12139,mexican
 33392,chinese
 8538,italian
 47527,cajun_creole
@@ -5315,7 +5315,7 @@ id,cuisine
 1499,irish
 41392,japanese
 2338,cajun_creole
-48685,southern_us
+48685,italian
 39463,mexican
 16150,filipino
 42577,italian
@@ -5376,7 +5376,7 @@ id,cuisine
 11941,chinese
 32193,italian
 6438,chinese
-28612,french
+28612,italian
 34937,southern_us
 18750,southern_us
 44983,french
@@ -5452,7 +5452,7 @@ id,cuisine
 26881,southern_us
 40945,southern_us
 36422,thai
-40041,french
+40041,italian
 38541,cajun_creole
 35240,cajun_creole
 44367,mexican
@@ -5640,7 +5640,7 @@ id,cuisine
 48291,vietnamese
 30903,indian
 2777,greek
-3630,french
+3630,southern_us
 37511,southern_us
 26835,southern_us
 7201,chinese
@@ -5766,7 +5766,7 @@ id,cuisine
 24501,filipino
 37257,chinese
 17772,mexican
-7977,southern_us
+7977,indian
 24949,chinese
 9467,italian
 18520,mexican
@@ -6309,7 +6309,7 @@ id,cuisine
 29745,italian
 2336,mexican
 17294,korean
-1449,french
+1449,greek
 30410,italian
 43341,mexican
 39594,southern_us
@@ -6322,7 +6322,7 @@ id,cuisine
 8552,greek
 46196,italian
 22828,southern_us
-43621,british
+43621,french
 47602,italian
 14329,italian
 2924,mexican
@@ -6340,7 +6340,7 @@ id,cuisine
 40072,french
 17587,indian
 7758,chinese
-2853,french
+2853,southern_us
 18218,indian
 21720,indian
 20872,mexican
@@ -6356,7 +6356,7 @@ id,cuisine
 46460,british
 12472,chinese
 14100,japanese
-14120,chinese
+14120,thai
 40951,thai
 30897,italian
 16708,mexican
@@ -6426,7 +6426,7 @@ id,cuisine
 11406,indian
 42319,french
 35370,moroccan
-42436,vietnamese
+42436,chinese
 27895,italian
 1645,chinese
 8787,indian
@@ -6501,7 +6501,7 @@ id,cuisine
 877,indian
 40408,italian
 4172,chinese
-1663,cajun_creole
+1663,southern_us
 29813,french
 3292,mexican
 6288,filipino
@@ -6661,7 +6661,7 @@ id,cuisine
 14502,mexican
 22711,southern_us
 27402,italian
-4743,french
+4743,southern_us
 13632,italian
 46530,italian
 12173,southern_us
@@ -6681,7 +6681,7 @@ id,cuisine
 47124,italian
 24523,southern_us
 34597,thai
-32015,italian
+32015,southern_us
 46696,japanese
 49239,mexican
 28501,mexican
@@ -6770,7 +6770,7 @@ id,cuisine
 26624,mexican
 21558,southern_us
 4847,italian
-17174,french
+17174,italian
 21995,greek
 27335,vietnamese
 14696,mexican
@@ -6925,7 +6925,7 @@ id,cuisine
 35002,mexican
 17689,japanese
 13224,mexican
-18356,southern_us
+18356,cajun_creole
 10950,italian
 37642,mexican
 1801,mexican
@@ -6968,7 +6968,7 @@ id,cuisine
 29914,southern_us
 797,thai
 4209,southern_us
-34027,thai
+34027,vietnamese
 15378,mexican
 25802,chinese
 21683,cajun_creole
@@ -7187,7 +7187,7 @@ id,cuisine
 48647,southern_us
 12709,indian
 1405,indian
-34269,italian
+34269,southern_us
 31633,italian
 29169,southern_us
 10732,mexican
@@ -7232,7 +7232,7 @@ id,cuisine
 14586,southern_us
 32960,italian
 16071,spanish
-4465,cajun_creole
+4465,french
 11751,italian
 17484,mexican
 12431,mexican
@@ -7357,7 +7357,7 @@ id,cuisine
 41292,italian
 11479,southern_us
 31614,italian
-12477,irish
+12477,italian
 23867,indian
 5114,mexican
 48589,chinese
@@ -7368,7 +7368,7 @@ id,cuisine
 39611,spanish
 43758,spanish
 3677,thai
-9868,french
+9868,italian
 7365,japanese
 36795,italian
 47681,southern_us
@@ -7447,7 +7447,7 @@ id,cuisine
 42088,mexican
 22797,southern_us
 30950,italian
-31545,greek
+31545,italian
 31409,french
 32783,southern_us
 3096,italian
@@ -8089,7 +8089,7 @@ id,cuisine
 27960,italian
 14656,indian
 3838,cajun_creole
-18439,southern_us
+18439,cajun_creole
 15998,southern_us
 31815,indian
 21879,mexican
@@ -8186,7 +8186,7 @@ id,cuisine
 16786,italian
 2781,indian
 5785,mexican
-17249,mexican
+17249,southern_us
 27894,mexican
 11444,mexican
 35396,italian
@@ -8205,7 +8205,7 @@ id,cuisine
 9681,italian
 31476,japanese
 46081,italian
-1293,french
+1293,italian
 3830,mexican
 49201,korean
 4236,mexican
@@ -8272,7 +8272,7 @@ id,cuisine
 43736,southern_us
 43841,italian
 17547,mexican
-1014,italian
+1014,chinese
 16213,cajun_creole
 27984,southern_us
 16158,chinese
@@ -8342,7 +8342,7 @@ id,cuisine
 10408,mexican
 10572,cajun_creole
 24046,mexican
-30697,greek
+30697,italian
 46439,chinese
 38885,italian
 20199,jamaican
@@ -8422,7 +8422,7 @@ id,cuisine
 49053,indian
 43792,french
 6018,chinese
-42349,vietnamese
+42349,thai
 29888,italian
 30048,italian
 8955,japanese
@@ -8507,7 +8507,7 @@ id,cuisine
 46730,filipino
 11477,french
 5846,cajun_creole
-24667,mexican
+24667,cajun_creole
 22900,mexican
 9423,indian
 42347,vietnamese
@@ -8565,7 +8565,7 @@ id,cuisine
 31943,southern_us
 22214,indian
 19154,greek
-40075,french
+40075,italian
 28502,french
 26138,southern_us
 43438,brazilian
@@ -8633,7 +8633,7 @@ id,cuisine
 26577,vietnamese
 9258,italian
 18690,moroccan
-41665,greek
+41665,southern_us
 4485,mexican
 6221,chinese
 8131,italian
@@ -8801,7 +8801,7 @@ id,cuisine
 9561,italian
 36933,chinese
 8157,vietnamese
-22382,french
+22382,italian
 25500,moroccan
 39490,italian
 18710,moroccan
@@ -8855,7 +8855,7 @@ id,cuisine
 34525,cajun_creole
 17364,moroccan
 33684,russian
-9802,southern_us
+9802,italian
 24240,italian
 11809,italian
 41184,italian
@@ -8924,7 +8924,7 @@ id,cuisine
 29517,italian
 11675,japanese
 23852,chinese
-42909,spanish
+42909,vietnamese
 37054,chinese
 12000,indian
 9166,italian
@@ -8986,7 +8986,7 @@ id,cuisine
 12905,mexican
 43889,italian
 45671,italian
-9885,french
+9885,italian
 16313,southern_us
 29862,indian
 11076,italian
@@ -9048,7 +9048,7 @@ id,cuisine
 25821,mexican
 43337,chinese
 38604,mexican
-29603,vietnamese
+29603,filipino
 21318,french
 20175,filipino
 49623,french
@@ -9143,7 +9143,7 @@ id,cuisine
 48225,mexican
 10819,chinese
 20270,russian
-11362,jamaican
+11362,filipino
 15251,moroccan
 39093,indian
 10567,mexican
@@ -9320,7 +9320,7 @@ id,cuisine
 16141,mexican
 48322,korean
 37350,mexican
-1027,korean
+1027,thai
 37668,indian
 42765,cajun_creole
 4797,indian
@@ -9708,7 +9708,7 @@ id,cuisine
 2117,french
 47237,mexican
 20171,indian
-13702,french
+13702,italian
 3935,russian
 33714,irish
 45210,chinese
@@ -9738,7 +9738,7 @@ id,cuisine
 14429,cajun_creole
 49598,mexican
 29394,british
-25872,chinese
+25872,korean
 22278,korean
 26095,thai
 11504,southern_us
